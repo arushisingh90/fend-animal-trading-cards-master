@@ -1,0 +1,51 @@
+.body{
+	background-color: #000000;
+}
+.header{
+	font-size: 35px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+.dogImage{
+	width: 300px;
+	padding-bottom: 10px;
+}
+
+.outerDiv{
+	position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #FFFFFF;
+    padding: 20px 20px 20px 20px;
+}
+
+.innerDiv{
+	box-shadow: 10px 10px 5px #d3d3d3;
+	border-radius: 1px;
+	padding: 20px 20px 20px 20px;
+	border:1px solid #d3d3d3;
+}
+
+.infoDiv{
+	border:1px solid #d3d3d3;
+	width: 280px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.factPara{
+	font-style: italic;
+}
+
+li span{
+	font-weight: bold;
+}
+
+li{
+	list-style:none;
+}
+
+ul{
+	padding-left: 0px;
+}
